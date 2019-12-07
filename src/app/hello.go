@@ -24,6 +24,7 @@ func main() {
 
 	port := os.Getenv("PORT")
 	if port == "" {
+		prot1 = "8888"
 		port = "8080"
 	}
 
