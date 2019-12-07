@@ -1,7 +1,7 @@
-export GITACCOUNT=
+export GITACCOUNT=q942014528
 
 export MYCLUSTER=
-export KUBECONFIG=
+export KUBECONFIG=tektonknativebeijing19-0e3e0ef4c9c6d831e8aa6fe01f33bfc4-0001.jp-tok.containers.appdomain.cloud
 
 export NAMESPACE=
 export EMAIL=
